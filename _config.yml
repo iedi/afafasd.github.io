@@ -28,7 +28,7 @@ github_username:  afafasd
 markdown: kramdown
 theme: minima
 gems:
-  - afafasd-feed
+  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
